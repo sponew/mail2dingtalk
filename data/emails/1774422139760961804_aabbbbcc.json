@@ -1,0 +1,12 @@
+{
+  "id": "1774422139760961804_aabbbbcc",
+  "from": "\u003cfirewall@example.com\u003e",
+  "to": [
+    "\u003cadmin@example.com\u003e"
+  ],
+  "subject": "【测试】多部分邮件",
+  "date": "0001-01-01T00:00:00Z",
+  "received_at": "2026-03-25T15:02:19.914943879+08:00",
+  "body_text": "纯文本版本：这是一封测试邮件",
+  "body_html": "\n    \u003chtml\u003e\n    \u003cbody\u003e\n        \u003ch3\u003eHTML 版本\u003c/h3\u003e\n        \u003cp\u003e这是一封\u003cstrong\u003e测试邮件\u003c/strong\u003e\u003c/p\u003e\n        \u003cul\u003e\n            \u003cli\u003e项目 1\u003c/li\u003e\n            \u003cli\u003e项目 2\u003c/li\u003e\n        \u003c/ul\u003e\n    \u003c/body\u003e\n    \u003c/html\u003e\n    "
+}

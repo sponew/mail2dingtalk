@@ -1,0 +1,11 @@
+{
+  "id": "1774422488755007756_iijjjjjj",
+  "from": "\u003cfirewall@example.com\u003e",
+  "to": [
+    "\u003cadmin@example.com\u003e"
+  ],
+  "subject": "【测试】HTML 格式告警",
+  "date": "0001-01-01T00:00:00Z",
+  "received_at": "2026-03-25T15:08:08.912356886+08:00",
+  "body_html": "\n    \u003chtml\u003e\n    \u003cbody\u003e\n        \u003ch2\u003e防火墙告警\u003c/h2\u003e\n        \u003ctable border=\"1\" style=\"border-collapse: collapse;\"\u003e\n            \u003ctr\u003e\u003cth\u003e时间\u003c/th\u003e\u003ctd\u003e2024-01-15 10:30:00\u003c/td\u003e\u003c/tr\u003e\n            \u003ctr\u003e\u003cth\u003e源 IP\u003c/th\u003e\u003ctd\u003e192.168.1.100\u003c/td\u003e\u003c/tr\u003e\n            \u003ctr\u003e\u003cth\u003e目标 IP\u003c/th\u003e\u003ctd\u003e10.0.0.1\u003c/td\u003e\u003c/tr\u003e\n            \u003ctr\u003e\u003cth\u003e动作\u003c/th\u003e\u003ctd style=\"color: red;\"\u003e拦截\u003c/td\u003e\u003c/tr\u003e\n            \u003ctr\u003e\u003cth\u003e规则\u003c/th\u003e\u003ctd\u003eBLOCK_SUSPICIOUS\u003c/td\u003e\u003c/tr\u003e\n        \u003c/table\u003e\n        \u003cp\u003e请尽快处理!\u003c/p\u003e\n    \u003c/body\u003e\n    \u003c/html\u003e\n    "
+}

@@ -1,0 +1,19 @@
+{
+  "id": "1774422488759189592_mnnnnooo",
+  "from": "\u003cfirewall@example.com\u003e",
+  "to": [
+    "\u003cadmin@example.com\u003e"
+  ],
+  "subject": "【测试】带附件告警",
+  "date": "0001-01-01T00:00:00Z",
+  "received_at": "2026-03-25T15:08:08.965190888+08:00",
+  "body_text": "\n    这是一封带附件的测试邮件。\n    \n    附件包含日志文件。\n    ",
+  "attachments": [
+    {
+      "filename": "test_log.txt",
+      "size": 2500,
+      "path": "tmp/attachments/1774422488759189592_mnnnnooo_test_log.txt",
+      "too_large": false
+    }
+  ]
+}

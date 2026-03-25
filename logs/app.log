@@ -1,0 +1,40 @@
+time=2026-03-25T15:02:10.799+08:00 level=INFO msg="started email workers" count=10
+time=2026-03-25T15:02:10.799+08:00 level=INFO msg="started cleanup scheduler" retention_days=180
+time=2026-03-25T15:02:10.799+08:00 level=INFO msg="mail2dingtalk service started"
+time=2026-03-25T15:02:10.799+08:00 level=INFO msg="SMTP listening on port" port=2525
+time=2026-03-25T15:02:10.799+08:00 level=INFO msg="Max concurrent workers" count=10
+time=2026-03-25T15:02:10.799+08:00 level=INFO msg="Attachment max size" size_mb=20
+time=2026-03-25T15:02:10.799+08:00 level=INFO msg="Email retention" days=180
+time=2026-03-25T15:02:10.800+08:00 level=INFO msg="starting SMTP server" addr=:2525
+time=2026-03-25T15:02:19.753+08:00 level=INFO msg="received email" from=firewall@example.com to=[admin@example.com] size=287
+time=2026-03-25T15:02:19.753+08:00 level=INFO msg="processing email" id=1774422139753491042_56666677 subject=【测试】纯文本告警
+time=2026-03-25T15:02:19.755+08:00 level=INFO msg="received email" from=firewall@example.com to=[admin@example.com] size=910
+time=2026-03-25T15:02:19.756+08:00 level=INFO msg="processing email" id=1774422139755680625_wwwwxxxy subject="【测试】HTML 格式告警"
+time=2026-03-25T15:02:19.758+08:00 level=INFO msg="received email" from=firewall@example.com to=[admin@example.com] size=4134
+time=2026-03-25T15:02:19.758+08:00 level=INFO msg="processing email" id=1774422139758672527_aaaaabbb subject=【测试】带附件告警
+time=2026-03-25T15:02:19.760+08:00 level=INFO msg="received email" from=firewall@example.com to=[admin@example.com] size=908
+time=2026-03-25T15:02:19.761+08:00 level=INFO msg="processing email" id=1774422139760961804_aabbbbcc subject=【测试】多部分邮件
+time=2026-03-25T15:02:19.906+08:00 level=INFO msg="email processed successfully" id=1774422139755680625_wwwwxxxy
+time=2026-03-25T15:02:19.915+08:00 level=INFO msg="email processed successfully" id=1774422139760961804_aabbbbcc
+time=2026-03-25T15:02:19.967+08:00 level=INFO msg="email processed successfully" id=1774422139758672527_aaaaabbb
+time=2026-03-25T15:02:20.020+08:00 level=INFO msg="email processed successfully" id=1774422139753491042_56666677
+time=2026-03-25T15:06:44.689+08:00 level=INFO msg="started email workers" count=10
+time=2026-03-25T15:06:44.689+08:00 level=INFO msg="started cleanup scheduler" retention_days=180
+time=2026-03-25T15:06:44.689+08:00 level=INFO msg="mail2dingtalk service started"
+time=2026-03-25T15:06:44.689+08:00 level=INFO msg="SMTP listening on port" port=2525
+time=2026-03-25T15:06:44.689+08:00 level=INFO msg="Max concurrent workers" count=10
+time=2026-03-25T15:06:44.689+08:00 level=INFO msg="Attachment max size" size_mb=20
+time=2026-03-25T15:06:44.689+08:00 level=INFO msg="Email retention" days=180
+time=2026-03-25T15:06:44.689+08:00 level=INFO msg="starting SMTP server" addr=:2525
+time=2026-03-25T15:08:08.752+08:00 level=INFO msg="received email" from=firewall@example.com to=[admin@example.com] size=287
+time=2026-03-25T15:08:08.752+08:00 level=INFO msg="processing email" id=1774422488752379303_xyyyyyyz subject=【测试】纯文本告警
+time=2026-03-25T15:08:08.754+08:00 level=INFO msg="received email" from=firewall@example.com to=[admin@example.com] size=910
+time=2026-03-25T15:08:08.755+08:00 level=INFO msg="processing email" id=1774422488755007756_iijjjjjj subject="【测试】HTML 格式告警"
+time=2026-03-25T15:08:08.759+08:00 level=INFO msg="received email" from=firewall@example.com to=[admin@example.com] size=4134
+time=2026-03-25T15:08:08.759+08:00 level=INFO msg="processing email" id=1774422488759189592_mnnnnooo subject=【测试】带附件告警
+time=2026-03-25T15:08:08.763+08:00 level=INFO msg="received email" from=firewall@example.com to=[admin@example.com] size=908
+time=2026-03-25T15:08:08.764+08:00 level=INFO msg="processing email" id=1774422488763117750_55556666 subject=【测试】多部分邮件
+time=2026-03-25T15:08:08.912+08:00 level=INFO msg="email processed successfully" id=1774422488763117750_55556666
+time=2026-03-25T15:08:08.912+08:00 level=INFO msg="email processed successfully" id=1774422488755007756_iijjjjjj
+time=2026-03-25T15:08:08.912+08:00 level=INFO msg="email processed successfully" id=1774422488752379303_xyyyyyyz
+time=2026-03-25T15:08:08.965+08:00 level=INFO msg="email processed successfully" id=1774422488759189592_mnnnnooo
