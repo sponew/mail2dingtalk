@@ -1,0 +1,11 @@
+{
+  "id": "1774424152799641590_ghiiiiij",
+  "from": "\u003ctest@example.com\u003e",
+  "to": [
+    "\u003cadmin@example.com\u003e"
+  ],
+  "subject": "测试时间显示",
+  "date": "2026-03-25T15:35:52+08:00",
+  "received_at": "2026-03-25T15:35:52.950223668+08:00",
+  "body_text": "测试带时间的邮件"
+}

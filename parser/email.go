@@ -60,7 +60,7 @@ func ParseEmail(rawData []byte) (*ParsedEmail, error) {
 		}
 	}
 
-	if date, err := msg.Header.Date(); err == nil {
+	if date, err := msg.Header.Date(); err == nil && !date.IsZero() {
 		email.Date = date
 	} else {
 		email.Date = time.Now()
